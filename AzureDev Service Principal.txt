@@ -1,0 +1,8 @@
+Azure AD Directory ID:
+f34a4f59-5e3e-4069-8b1d-f3a3e1c16f20
+
+Service Principal App ID:
+e7270975-0fe2-4f82-bb18-4c595318ddda
+
+Service Principal Key: 
+dev key: 6B1ozpzhmZaVbJqqjnSD0kKDqHBpDP9436R1bKDAKos=
